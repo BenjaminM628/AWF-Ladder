@@ -1,0 +1,27 @@
+#AWF Players#
+andrew = 2535704693
+benjamin628 = 9936698896
+bilboswaggins = 1023171825
+blortis = 137402733
+character = 3813305027
+lesophagus = 4735037986
+hankypinky = 9817441156
+jammawind = 6428827048
+jayvan = 8238763859
+jim = 8537298461
+jplatt821 = 3932387869
+jt = 6611562592
+jz = 4439722815
+kachan = 9329934538
+legacy = 1834421712
+legendofthephoenix = 3118658669
+marsadpl = 7523770695 
+masterofdesaster = 2214950915
+oscar = 9738165765
+ppface = 3429934354
+shyb = 6724286616
+stealth90 = 4022913705
+sugi = 7531925768
+thethedde = 5712212036
+tschombawomba = 7335744311
+yellowswag = 6532359764
